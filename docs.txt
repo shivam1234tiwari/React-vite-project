@@ -1,0 +1,4 @@
+React import and export:-
+default export and import (export default demo)
+named export and import (export demo , import {demo})make sure import inside curly braces {}
+mix export and import 
